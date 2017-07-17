@@ -1,106 +1,106 @@
-# #100DaysOfCode Challenge.
 
+# #100DaysOfCode Challenge
 ## Progress Log
 
-| Day | Date | Created | Learned |
+| Day | Date | Created | Task |
 | --- | --- | --- | --- |
-| 001 | Jul 19, 2017 | [TITLE](001) | LEARNING |
-| 002 | Jul 20, 2017 | [TITLE](002) | LEARNING |
-| 003 | Jul 21, 2017 | [TITLE](003) | LEARNING |
-| 004 | Jul 22, 2017 | [TITLE](004) | LEARNING |
-| 005 | Jul 23, 2017 | [TITLE](005) | LEARNING |
-| 006 | Jul 24, 2017 | [TITLE](006) | LEARNING |
-| 007 | Jul 25, 2017 | [TITLE](007) | LEARNING |
-| 008 | Jul 26, 2017 | [TITLE](008) | LEARNING |
-| 009 | Jul 27, 2017 | [TITLE](009) | LEARNING |
-| 010 | Jul 28, 2017 | [TITLE](010) | LEARNING |
-| 011 | Jul 29, 2017 | [TITLE](011) | LEARNING |
-| 012 | Jul 30, 2017 | [TITLE](012) | LEARNING |
-| 013 | Jul 31, 2017 | [TITLE](013) | LEARNING |
-| 014 | Aug 01, 2017 | [TITLE](014) | LEARNING |
-| 015 | Aug 02, 2017 | [TITLE](015) | LEARNING |
-| 016 | Aug 03, 2017 | [TITLE](016) | LEARNING |
-| 017 | Aug 04, 2017 | [TITLE](017) | LEARNING |
-| 018 | Aug 05, 2017 | [TITLE](018) | LEARNING |
-| 019 | Aug 06, 2017 | [TITLE](019) | LEARNING |
-| 020 | Aug 07, 2017 | [TITLE](020) | LEARNING |
-| 021 | Aug 08, 2017 | [TITLE](021) | LEARNING |
-| 022 | Aug 09, 2017 | [TITLE](022) | LEARNING |
-| 023 | Aug 10, 2017 | [TITLE](023) | LEARNING |
-| 024 | Aug 11, 2017 | [TITLE](024) | LEARNING |
-| 025 | Aug 12, 2017 | [TITLE](025) | LEARNING |
-| 026 | Aug 13, 2017 | [TITLE](026) | LEARNING |
-| 027 | Aug 14, 2017 | [TITLE](027) | LEARNING |
-| 028 | Aug 15, 2017 | [TITLE](028) | LEARNING |
-| 029 | Aug 16, 2017 | [TITLE](029) | LEARNING |
-| 030 | Aug 17, 2017 | [TITLE](030) | LEARNING |
-| 031 | Aug 18, 2017 | [TITLE](031) | LEARNING |
-| 032 | Aug 19, 2017 | [TITLE](032) | LEARNING |
-| 033 | Aug 20, 2017 | [TITLE](033) | LEARNING |
-| 034 | Aug 21, 2017 | [TITLE](034) | LEARNING |
-| 035 | Aug 22, 2017 | [TITLE](035) | LEARNING |
-| 036 | Aug 23, 2017 | [TITLE](036) | LEARNING |
-| 037 | Aug 24, 2017 | [TITLE](037) | LEARNING |
-| 038 | Aug 25, 2017 | [TITLE](038) | LEARNING |
-| 039 | Aug 26, 2017 | [TITLE](039) | LEARNING |
-| 040 | Aug 27, 2017 | [TITLE](040) | LEARNING |
-| 041 | Aug 28, 2017 | [TITLE](041) | LEARNING |
-| 042 | Aug 29, 2017 | [TITLE](042) | LEARNING |
-| 043 | Aug 30, 2017 | [TITLE](043) | LEARNING |
-| 044 | Aug 31, 2017 | [TITLE](044) | LEARNING |
-| 045 | Sep 01, 2017 | [TITLE](045) | LEARNING |
-| 046 | Sep 02, 2017 | [TITLE](046) | LEARNING |
-| 047 | Sep 03, 2017 | [TITLE](047) | LEARNING |
-| 048 | Sep 04, 2017 | [TITLE](048) | LEARNING |
-| 049 | Sep 05, 2017 | [TITLE](049) | LEARNING |
-| 050 | Sep 06, 2017 | [TITLE](050) | LEARNING |
-| 051 | Sep 07, 2017 | [TITLE](051) | LEARNING |
-| 052 | Sep 08, 2017 | [TITLE](052) | LEARNING |
-| 053 | Sep 09, 2017 | [TITLE](053) | LEARNING |
-| 054 | Sep 10, 2017 | [TITLE](054) | LEARNING |
-| 055 | Sep 11, 2017 | [TITLE](055) | LEARNING |
-| 056 | Sep 12, 2017 | [TITLE](056) | LEARNING |
-| 057 | Sep 13, 2017 | [TITLE](057) | LEARNING |
-| 058 | Sep 14, 2017 | [TITLE](058) | LEARNING |
-| 059 | Sep 15, 2017 | [TITLE](059) | LEARNING |
-| 060 | Sep 16, 2017 | [TITLE](060) | LEARNING |
-| 061 | Sep 17, 2017 | [TITLE](061) | LEARNING |
-| 062 | Sep 18, 2017 | [TITLE](062) | LEARNING |
-| 063 | Sep 19, 2017 | [TITLE](063) | LEARNING |
-| 064 | Sep 20, 2017 | [TITLE](064) | LEARNING |
-| 065 | Sep 21, 2017 | [TITLE](065) | LEARNING |
-| 066 | Sep 22, 2017 | [TITLE](066) | LEARNING |
-| 067 | Sep 23, 2017 | [TITLE](067) | LEARNING |
-| 068 | Sep 24, 2017 | [TITLE](068) | LEARNING |
-| 069 | Sep 25, 2017 | [TITLE](069) | LEARNING |
-| 070 | Sep 26, 2017 | [TITLE](070) | LEARNING |
-| 071 | Sep 27, 2017 | [TITLE](071) | LEARNING |
-| 072 | Sep 28, 2017 | [TITLE](072) | LEARNING |
-| 073 | Sep 29, 2017 | [TITLE](073) | LEARNING |
-| 074 | Sep 30, 2017 | [TITLE](074) | LEARNING |
-| 075 | Oct 01, 2017 | [TITLE](075) | LEARNING |
-| 076 | Oct 02, 2017 | [TITLE](076) | LEARNING |
-| 077 | Oct 03, 2017 | [TITLE](077) | LEARNING |
-| 078 | Oct 04, 2017 | [TITLE](078) | LEARNING |
-| 079 | Oct 05, 2017 | [TITLE](079) | LEARNING |
-| 080 | Oct 06, 2017 | [TITLE](080) | LEARNING |
-| 081 | Oct 07, 2017 | [TITLE](081) | LEARNING |
-| 082 | Oct 08, 2017 | [TITLE](082) | LEARNING |
-| 083 | Oct 09, 2017 | [TITLE](083) | LEARNING |
-| 084 | Oct 10, 2017 | [TITLE](084) | LEARNING |
-| 085 | Oct 11, 2017 | [TITLE](085) | LEARNING |
-| 086 | Oct 12, 2017 | [TITLE](086) | LEARNING |
-| 087 | Oct 13, 2017 | [TITLE](087) | LEARNING |
-| 088 | Oct 14, 2017 | [TITLE](088) | LEARNING |
-| 089 | Oct 15, 2017 | [TITLE](089) | LEARNING |
-| 090 | Oct 16, 2017 | [TITLE](090) | LEARNING |
-| 091 | Oct 17, 2017 | [TITLE](091) | LEARNING |
-| 092 | Oct 18, 2017 | [TITLE](092) | LEARNING |
-| 093 | Oct 19, 2017 | [TITLE](093) | LEARNING |
-| 094 | Oct 20, 2017 | [TITLE](094) | LEARNING |
-| 095 | Oct 21, 2017 | [TITLE](095) | LEARNING |
-| 096 | Oct 22, 2017 | [TITLE](096) | LEARNING |
-| 097 | Oct 23, 2017 | [TITLE](097) | LEARNING |
-| 098 | Oct 24, 2017 | [TITLE](098) | LEARNING |
-| 099 | Oct 25, 2017 | [TITLE](099) | LEARNING |
-| 100 | Oct 26, 2017 | [TITLE](100) | LEARNING |
+| 001 | Jul 19, 2017 | [LINK](001) | Task Description |
+| 002 | Jul 20, 2017 | [LINK](002) | Task Description |
+| 003 | Jul 21, 2017 | [LINK](003) | Task Description |
+| 004 | Jul 22, 2017 | [LINK](004) | Task Description |
+| 005 | Jul 23, 2017 | [LINK](005) | Task Description |
+| 006 | Jul 24, 2017 | [LINK](006) | Task Description |
+| 007 | Jul 25, 2017 | [LINK](007) | Task Description |
+| 008 | Jul 26, 2017 | [LINK](008) | Task Description |
+| 009 | Jul 27, 2017 | [LINK](009) | Task Description |
+| 010 | Jul 28, 2017 | [LINK](010) | Task Description |
+| 011 | Jul 29, 2017 | [LINK](011) | Task Description |
+| 012 | Jul 30, 2017 | [LINK](012) | Task Description |
+| 013 | Jul 31, 2017 | [LINK](013) | Task Description |
+| 014 | Aug 01, 2017 | [LINK](014) | Task Description |
+| 015 | Aug 02, 2017 | [LINK](015) | Task Description |
+| 016 | Aug 03, 2017 | [LINK](016) | Task Description |
+| 017 | Aug 04, 2017 | [LINK](017) | Task Description |
+| 018 | Aug 05, 2017 | [LINK](018) | Task Description |
+| 019 | Aug 06, 2017 | [LINK](019) | Task Description |
+| 020 | Aug 07, 2017 | [LINK](020) | Task Description |
+| 021 | Aug 08, 2017 | [LINK](021) | Task Description |
+| 022 | Aug 09, 2017 | [LINK](022) | Task Description |
+| 023 | Aug 10, 2017 | [LINK](023) | Task Description |
+| 024 | Aug 11, 2017 | [LINK](024) | Task Description |
+| 025 | Aug 12, 2017 | [LINK](025) | Task Description |
+| 026 | Aug 13, 2017 | [LINK](026) | Task Description |
+| 027 | Aug 14, 2017 | [LINK](027) | Task Description |
+| 028 | Aug 15, 2017 | [LINK](028) | Task Description |
+| 029 | Aug 16, 2017 | [LINK](029) | Task Description |
+| 030 | Aug 17, 2017 | [LINK](030) | Task Description |
+| 031 | Aug 18, 2017 | [LINK](031) | Task Description |
+| 032 | Aug 19, 2017 | [LINK](032) | Task Description |
+| 033 | Aug 20, 2017 | [LINK](033) | Task Description |
+| 034 | Aug 21, 2017 | [LINK](034) | Task Description |
+| 035 | Aug 22, 2017 | [LINK](035) | Task Description |
+| 036 | Aug 23, 2017 | [LINK](036) | Task Description |
+| 037 | Aug 24, 2017 | [LINK](037) | Task Description |
+| 038 | Aug 25, 2017 | [LINK](038) | Task Description |
+| 039 | Aug 26, 2017 | [LINK](039) | Task Description |
+| 040 | Aug 27, 2017 | [LINK](040) | Task Description |
+| 041 | Aug 28, 2017 | [LINK](041) | Task Description |
+| 042 | Aug 29, 2017 | [LINK](042) | Task Description |
+| 043 | Aug 30, 2017 | [LINK](043) | Task Description |
+| 044 | Aug 31, 2017 | [LINK](044) | Task Description |
+| 045 | Sep 01, 2017 | [LINK](045) | Task Description |
+| 046 | Sep 02, 2017 | [LINK](046) | Task Description |
+| 047 | Sep 03, 2017 | [LINK](047) | Task Description |
+| 048 | Sep 04, 2017 | [LINK](048) | Task Description |
+| 049 | Sep 05, 2017 | [LINK](049) | Task Description |
+| 050 | Sep 06, 2017 | [LINK](050) | Task Description |
+| 051 | Sep 07, 2017 | [LINK](051) | Task Description |
+| 052 | Sep 08, 2017 | [LINK](052) | Task Description |
+| 053 | Sep 09, 2017 | [LINK](053) | Task Description |
+| 054 | Sep 10, 2017 | [LINK](054) | Task Description |
+| 055 | Sep 11, 2017 | [LINK](055) | Task Description |
+| 056 | Sep 12, 2017 | [LINK](056) | Task Description |
+| 057 | Sep 13, 2017 | [LINK](057) | Task Description |
+| 058 | Sep 14, 2017 | [LINK](058) | Task Description |
+| 059 | Sep 15, 2017 | [LINK](059) | Task Description |
+| 060 | Sep 16, 2017 | [LINK](060) | Task Description |
+| 061 | Sep 17, 2017 | [LINK](061) | Task Description |
+| 062 | Sep 18, 2017 | [LINK](062) | Task Description |
+| 063 | Sep 19, 2017 | [LINK](063) | Task Description |
+| 064 | Sep 20, 2017 | [LINK](064) | Task Description |
+| 065 | Sep 21, 2017 | [LINK](065) | Task Description |
+| 066 | Sep 22, 2017 | [LINK](066) | Task Description |
+| 067 | Sep 23, 2017 | [LINK](067) | Task Description |
+| 068 | Sep 24, 2017 | [LINK](068) | Task Description |
+| 069 | Sep 25, 2017 | [LINK](069) | Task Description |
+| 070 | Sep 26, 2017 | [LINK](070) | Task Description |
+| 071 | Sep 27, 2017 | [LINK](071) | Task Description |
+| 072 | Sep 28, 2017 | [LINK](072) | Task Description |
+| 073 | Sep 29, 2017 | [LINK](073) | Task Description |
+| 074 | Sep 30, 2017 | [LINK](074) | Task Description |
+| 075 | Oct 01, 2017 | [LINK](075) | Task Description |
+| 076 | Oct 02, 2017 | [LINK](076) | Task Description |
+| 077 | Oct 03, 2017 | [LINK](077) | Task Description |
+| 078 | Oct 04, 2017 | [LINK](078) | Task Description |
+| 079 | Oct 05, 2017 | [LINK](079) | Task Description |
+| 080 | Oct 06, 2017 | [LINK](080) | Task Description |
+| 081 | Oct 07, 2017 | [LINK](081) | Task Description |
+| 082 | Oct 08, 2017 | [LINK](082) | Task Description |
+| 083 | Oct 09, 2017 | [LINK](083) | Task Description |
+| 084 | Oct 10, 2017 | [LINK](084) | Task Description |
+| 085 | Oct 11, 2017 | [LINK](085) | Task Description |
+| 086 | Oct 12, 2017 | [LINK](086) | Task Description |
+| 087 | Oct 13, 2017 | [LINK](087) | Task Description |
+| 088 | Oct 14, 2017 | [LINK](088) | Task Description |
+| 089 | Oct 15, 2017 | [LINK](089) | Task Description |
+| 090 | Oct 16, 2017 | [LINK](090) | Task Description |
+| 091 | Oct 17, 2017 | [LINK](091) | Task Description |
+| 092 | Oct 18, 2017 | [LINK](092) | Task Description |
+| 093 | Oct 19, 2017 | [LINK](093) | Task Description |
+| 094 | Oct 20, 2017 | [LINK](094) | Task Description |
+| 095 | Oct 21, 2017 | [LINK](095) | Task Description |
+| 096 | Oct 22, 2017 | [LINK](096) | Task Description |
+| 097 | Oct 23, 2017 | [LINK](097) | Task Description |
+| 098 | Oct 24, 2017 | [LINK](098) | Task Description |
+| 099 | Oct 25, 2017 | [LINK](099) | Task Description |
+| 100 | Oct 26, 2017 | [LINK](100) | Task Description |

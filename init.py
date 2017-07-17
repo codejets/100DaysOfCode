@@ -7,10 +7,13 @@ NUM_DAYS = 100
 NUM_WIDTH = 3
 TABLE_HEADER = '''## Progress Log
 
-| Day | Date | Created | Learned |
+| Day | Date | Created | Task |
 | --- | --- | --- | --- |
 '''
-DAY = '| {0} | {1} | [TITLE]({0}) | LEARNING |\n'
+LOG_HEADER = '''
+# #100DaysOfCode Challenge
+'''
+DAY = '| {0} | {1} | [LINK]({0}) | Task Description |\n'
 
 
 def gen_days():
@@ -28,6 +31,7 @@ def get_date(day):
 def create_log():
     '''Create progress log file with markdown table '''
     with open(LOG, 'w') as f:
+        f.write(LOG_HEADER)
         f.write(TABLE_HEADER)
         for d in gen_days():
             date = get_date(d)
@@ -41,10 +45,10 @@ if __name__ == '__main__':
         print('Creating logfile')
         create_log()
 
-    dirs = [d for d in gen_days() if not os.path.isdir(d)]
-    if not dirs:
-        print('All 100 days directories already created')
-    else:
-        print('Creating missing day directories')
-        for d in dirs:
-            os.makedirs(d)
+    # dirs = [d for d in gen_days() if not os.path.isdir(d)]
+    # if not dirs:
+    #     print('All 100 days directories already created')
+    # else:
+    #     print('Creating missing day directories')
+    #     for d in dirs:
+    #         os.makedirs(d)
