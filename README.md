@@ -1,7 +1,9 @@
 
 # #100DaysOfCode Challenge
 
-My reason for joining the #100DaysOfCode is to be able to sit down and code for atleast an hour every evening *consistently*.  
+My reason for joining the #100DaysOfCode is to be able to sit down and code for atleast an hour every evening.
+This is just a way to overcome my excuses and procrastination to not do anything after work everyday.
+
 
 ## Progress Log
 
