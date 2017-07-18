@@ -4,13 +4,14 @@
 My reason for joining the #100DaysOfCode is to be able to sit down and code for atleast an hour every evening.
 This is just a way to overcome my excuses and procrastination to not do anything after work everyday.
 
+The priority is on shipping the code or app each day.
 
 ## Progress Log
 
 | Day | Date | Created | Task |
 | --- | --- | --- | --- |
-| 001 | Jul 19, 2017 | [LINK](001) | Task Description |
-| 002 | Jul 20, 2017 | [LINK](002) | Task Description |
+| 001 | Jul 19, 2017 | [LINK](001) | Authentication with Twitter/Github built with node and graphql |
+| 002 | Jul 20, 2017 | [LINK](002) | Complete the work on gatsby and push out the theme as separate gatsby starter  |
 | 003 | Jul 21, 2017 | [LINK](003) | Task Description |
 | 004 | Jul 22, 2017 | [LINK](004) | Task Description |
 | 005 | Jul 23, 2017 | [LINK](005) | Task Description |
