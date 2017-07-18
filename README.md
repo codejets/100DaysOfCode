@@ -1,5 +1,8 @@
 
 # #100DaysOfCode Challenge
+
+My reason for joining the #100DaysOfCode is to be able to sit down and code for atleast an hour every evening *consistently*.  
+
 ## Progress Log
 
 | Day | Date | Created | Task |
