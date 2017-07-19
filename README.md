@@ -11,7 +11,7 @@ The priority is on shipping the code or app each day.
 | Day | Date | Created | Task |
 | --- | --- | --- | --- |
 | 001 | Jul 19, 2017 | [LINK](001) | Authentication with Twitter/Github built with node and graphql |
-| 002 | Jul 20, 2017 | [LINK](002) | Complete the work on gatsby and push out the theme as separate gatsby starter  |
+| 002 | Jul 20, 2017 | [https://github.com/codejets/react-graphql-social-auth](graphql social auth) -002 | Completed the social auth but issus in connecting relay app into express  |
 | 003 | Jul 21, 2017 | [LINK](003) | Task Description |
 | 004 | Jul 22, 2017 | [LINK](004) | Task Description |
 | 005 | Jul 23, 2017 | [LINK](005) | Task Description |
